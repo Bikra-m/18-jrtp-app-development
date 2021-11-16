@@ -6,4 +6,10 @@ public class Test
    {
      //logic to check some functionality
   }
+
+//story for HIS-122
+  public void testSomeFunctionality(){
+    //logic to write here
+}
+
 }
